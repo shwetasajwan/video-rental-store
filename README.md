@@ -50,11 +50,11 @@ The project focuses on database schema design, relational integrity, and transac
 - Defines classifications for: Movies, VCR, Video Cameras
 
 ## 🛠️ Tech Stack
-# Layer	                      Technology
-  GUI	                        Python (Tkinter)
-  Backend	                    MySQL
-  Database Integration	      mysql.connector
-  Validation	                Regular Expressions (re)
+# Layer and	                      Technology
+  GUI:	                        Python (Tkinter), 
+  Backend:                    MySQL,
+  Database Integration:	      mysql.connector,
+  Validation:	                Regular Expressions (re)
 
 ## 🚀 Key Functionalities
 
